@@ -1,4 +1,4 @@
-from utils import chargeur_de_données, preparer_information_infographiques, creer_graphique, generer_pdf
+from utils import chargeur_de_données, preparer_information_infographiques, creer_graphiques, generer_pdf
 
 def main():
     
