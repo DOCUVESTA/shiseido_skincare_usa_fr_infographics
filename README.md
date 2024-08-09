@@ -32,10 +32,53 @@
 
 ### Dossier: data
 #### Données brutes
-
+<table style="width:100%">
+    <tr>
+        <th>Nom du Fichier</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>shiseido_usa.csv</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>shiseido_fr.csv</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>shiseido_usa_rep_age.csv</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>shiseido_fr_rep_age.csv</td>
+        <td></td>
+    </tr>
+</table>
 
 
 #### Données préparées
+<table style="width:100%">
+    <tr>
+        <th>Nom du Fichier</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>elements_usa.json</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>elements_usa.json</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>rep_age_usa.json</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>rep_age_fr.json</td>
+        <td></td>
+    </tr>
+</table>
 
 <br>
 
