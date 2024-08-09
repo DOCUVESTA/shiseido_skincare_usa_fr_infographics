@@ -7,7 +7,7 @@
 </h3>
 
 ## Introduction
-La marque de beauté japonaise Shiseido, reconnue pour ses produits de soins de la peau de luxe, dispose d'une présence mondiale. Ce document infographique, généré automatiquement grâce à des scripts Python, donne un aperçu des indicateurs de performances des avis sur le produit ayant le plus d'avis laissé sur les sites web américain et français. En date du samedi le 8 juin 2024, le produit avec le plus grand nombre d'avis est le Sérum Concentré Activateur Énergisant (Power Infusing Serum). 
+La marque de beauté japonaise Shiseido, reconnue pour ses produits de soins de la peau de luxe, dispose d'une présence mondiale. Ce document infographique, généré automatiquement grâce à des scripts Python, donne un aperçu des indicateurs de performances des avis sur le produit ayant le plus d'avis laissé sur les sites web américain et français. En date du samedi le 8 juin 2024, le produit avec le plus grand nombre d'avis est le Sérum Concentré Activateur Énergisant (Power Infusing Serum). Les informations incluses dans le PDF infographique sont la note générale, le nombre d'avis, ainsi qu'un graphique montrant la répartition des avis par catégorie d'âge.
 
 <br>
 
