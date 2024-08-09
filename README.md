@@ -50,4 +50,8 @@ utils/
         └── generer_pdf.py
 
 ```
-
+### Dossier: éléments graphiques
+##### Les éléments graphiques utilisés pour completer le projet
+- arrière plan
+- images
+- graphiques
