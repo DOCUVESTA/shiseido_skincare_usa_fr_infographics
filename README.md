@@ -27,3 +27,27 @@
   <img src="https://github.com/DOCUVESTA/shiseido_skincare_usa_fr_infographics/blob/4b5612fd198a7d609530194cd52b1cafd219cbe6/%C3%A9l%C3%A9ments%20graphiques/shiseido_apercu.png" alt="preview"/>
 </div>
 </details>
+
+<br>
+
+### Dossier: data
+#### Données brutes
+
+
+
+#### Données préparées
+
+<br>
+
+### Dossier: utils
+##### Le package Python qui comprend tout les modules utilisés pour la création infographique
+```
+utils/
+        ├── __init__.py
+        ├── chargeur_de_données.py
+        ├── preparer_information_infographiques.py
+        ├── creer_graphiques.py
+        └── generer_pdf.py
+
+```
+
