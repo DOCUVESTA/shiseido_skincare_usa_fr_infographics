@@ -94,6 +94,6 @@ utils/
 ```
 ### Dossier: éléments graphiques
 ##### Les éléments graphiques utilisés pour completer le projet
-- arrière plan
+- arrière-plan
 - images
 - graphiques
