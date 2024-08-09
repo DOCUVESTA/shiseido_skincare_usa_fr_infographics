@@ -1,5 +1,5 @@
 <h1 align="center">
-	Document PDF Infographique Automatisé: Comparaison d'indicateurs d'avis d'un sérum Shiseido (USA vs FR)
+	Document PDF Infographique Automatisé: Comparaison d'indicateurs des avis d'un sérum Shiseido (USA vs FR)
 </h1>
 
 <h3 align="center">
