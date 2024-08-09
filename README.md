@@ -24,7 +24,7 @@
 <details open>
 <summary>Infographie :sparkles:</summary>
 <div align="center"">
-  <img src="https://github.com/DOCUVESTA/shiseido_skincare_usa_fr_infographics/blob/df9e1043a17a24580b2c9aa940d4fb3587eafde5/%C3%A9l%C3%A9ments%20graphiques/shiseido_png.png" alt="preview"/>
+  <img src="https://github.com/DOCUVESTA/shiseido_skincare_usa_fr_infographics/blob/0bd23f94bbf2b62c5f6505b96ae359da40098407/%C3%A9l%C3%A9ments%20graphiques/shiseido_infographie.png" alt="preview"/>
 </div>
 </details>
 
