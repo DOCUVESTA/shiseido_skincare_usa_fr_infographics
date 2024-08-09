@@ -39,19 +39,19 @@
     </tr>
     <tr>
         <td>shiseido_usa.csv</td>
-        <td></td>
+        <td>information sur les produits meilleurs ventes sur le site web usa</td>
     </tr>
     <tr>
         <td>shiseido_fr.csv</td>
-        <td></td>
+        <td>information sur les produits meilleurs ventes sur le site web français</td>
     </tr>
     <tr>
         <td>shiseido_usa_rep_age.csv</td>
-        <td></td>
+        <td>nombre d'avis laissés par catégorie d'âge sur les produits du site web usa</td>
     </tr>
     <tr>
         <td>shiseido_fr_rep_age.csv</td>
-        <td></td>
+        <td>nombre d'avis laissés par catégorie d'âge sur les produits du site web français</td>
     </tr>
 </table>
 
@@ -64,22 +64,21 @@
     </tr>
     <tr>
         <td>elements_usa.json</td>
-        <td></td>
+        <td>contenu du site web usa sur le sérum pour l'infographie</td>
     </tr>
     <tr>
-        <td>elements_usa.json</td>
-        <td></td>
+        <td>elements_fr.json</td>
+        <td>contenu du site web français sur le sérum pour l'infographie</td>
     </tr>
     <tr>
         <td>rep_age_usa.json</td>
-        <td></td>
+        <td>répartition en pourcentage des avis par catégorie d'âge pour le site web usa</td>
     </tr>
     <tr>
         <td>rep_age_fr.json</td>
-        <td></td>
+        <td>répartition en pourcentage des avis par catégorie d'âge pour le site web français</td>
     </tr>
 </table>
-
 <br>
 
 ### Dossier: utils
